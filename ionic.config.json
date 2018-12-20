@@ -1,5 +1,7 @@
 {
   "name": "ionicai",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
